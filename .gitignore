@@ -49,12 +49,9 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-*.png
 *.pdf
 *.dot
-tree_*.png
-expresiones.txt
-*.txt
+
 
 # Logs
 *.log
