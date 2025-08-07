@@ -99,3 +99,7 @@ Postfix: a*b+.
 - No valida sintaxis de expresiones regulares (puede generar errores con expresiones malformadas)
 - Los caracteres especiales deben ser escapados apropiadamente
 
+## Link del video
+
+- https://youtu.be/T57AuhSuZr8
+
